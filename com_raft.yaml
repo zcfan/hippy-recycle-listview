@@ -1,0 +1,15 @@
+name: hippy-recycle-listview
+displayName: 纯 javascript 实现的高性能 Hippy 长列表组件
+version: 1.0.3
+summary: "纯 javascript 实现的高性能 Hippy 长列表组件"
+description: "纯 javascript 实现的高性能 Hippy 长列表组件"
+team: "WeSing"
+hippyFramework: React
+apiVersion: npm/v1
+platform: hippy
+hippyRender:
+    - Android
+    - iOS
+    
+owner:
+  - cfanzhang
