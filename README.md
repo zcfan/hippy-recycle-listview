@@ -13,7 +13,7 @@ HippyRecycleListView 是一个纯前端实现的 Hippy ListView 替代品，提�
 npm install hippy-recycle-listview
 ```
 
-范例参考 `demo.tsx`
+范例参考 `demo`
 
 ## 1. 解决什么问题
 
