@@ -9,7 +9,7 @@ export default function useVisibleRange(
   const [scrollViewHeight, updateScrollViewHeight] = useState(0)
   const [yOffset, updateYOffset] = useState(0)
 
-  if (scrollViewHeight <= 0) return []
+  if (scrollViewHeight <= 0) return [[] as number[], updateYOffset, updateScrollViewHeight] as const
 
   const up = Math.max(0, yOffset)
   const down = Math.max(0, yOffset + scrollViewHeight)

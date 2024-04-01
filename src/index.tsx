@@ -7,9 +7,9 @@ import {
   View,
   ViewStyle,
 } from '@hippy/react'
-import { forwardRef, ReactNode, useRef, useState } from 'react'
+import { forwardRef, ReactNode, useRef } from 'react'
 
-import { Api, useExposeApi, useListViewHeight } from './hooks'
+import { Api, useExposeApi } from './hooks'
 import useRecycle from './use-recycle'
 import useVisibleRange from './use-visible-range'
 
