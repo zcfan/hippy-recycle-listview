@@ -1,7 +1,7 @@
 HippyRecycleListView
 ----
 
-HippyRecycleListView 是一个纯前端实现的 Hippy ListView 替代品，提供了更灵活的布局能力，以及良好的性能表现。
+HippyRecycleListView 是一个纯前端实现的 Hippy ListView 在特殊场景下的替代品，提供了更灵活的布局能力，以及良好的性能表现。
 
 它是为满足较特殊的设计需求而开发的组件，目前没有和 Hippy ListView 做过严谨的性能对比，各种能力不全面，也无意对标原生实现。
 
