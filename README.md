@@ -75,3 +75,19 @@ Android 上的 Hippy ListView，如果某一行的内容高度超出行高本身
 因为本组件解决的唯一痛点就是 Hippy ListView 行内容出界的裁剪问题，是为了特定业务需求做的基本实现。
 
 而这一个痛点已经跟 Hippy 同事反馈过了，过阵子如果建议接受了这个组件也就没有存在的必要了。所以不需要浪费更多精力在功能补全，更多是分享优化方案探讨思路。
+
+## 5. 更新
+
+万一 hippy 不方便调整的话，这个项目可能会有后续更新。所以也记录一下：
+
+本地仓库新增工蜂 origin：
+
+```
+git remote add tc git@git.woa.com:wesing-web/hippy-recycle-listview.git
+```
+
+修改同步工蜂仓库：
+
+```
+git push tc main:master
+```
