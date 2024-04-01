@@ -1,0 +1,30 @@
+{
+  "name": "hippy-recycle-listview",
+  "version": "1.0.0",
+  "description": "纯 javascript 实现的高性能 Hippy 长列表组件 high performance listview component for hippy.js written purely in javascript.",
+  "keywords": [
+    "hippy",
+    "react",
+    "javascript",
+    "listview"
+  ],
+  "main": "index.js",
+  "files": [
+    "dist",
+    "types",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "homepage": "https://github.com/zcfan/hippy-recycle-listview",
+  "author": "Alan Zhang",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.2",
+    "react": "^17.0.2"
+  }
+}
